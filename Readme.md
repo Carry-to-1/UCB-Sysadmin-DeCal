@@ -26,15 +26,15 @@ To compensate for the inability to use remote servers and to familiarize with th
 
 | Week | Topic |
 |---|---|
-| Week 0 | Introduction |
-| Week 1 | History of UNIX, Intro to Linux, FOSS |
-| Week 2 | Core Shell & Shell Scripting |
-| Week 3 | Packages |
-| Week 4 | Services |
-| Week 5 | Networking 101 |
-| Week 6 | Web Servers |
-| Week 7 | Security Fundamentals |
-| Week 8 | Version Control (Git) and Backups |
-| Week 9 | Docker |
-| Week 10 | Nix / Puppet |
-| Week 11 | Kubernetes |
+| [Week 0](Week%200.md) | Introduction |
+| [Week 1](Week%201.md) | History of UNIX, Intro to Linux, FOSS |
+| [Week 2](Week%202.md) | Core Shell & Shell Scripting |
+| [Week 3](Week%203.md) | Packages |
+| [Week 4](Week%204.md) | Services |
+| [Week 5](Week%205.md) | Networking 101 |
+| [Week 6](Week%206.md) | Web Servers |
+| [Week 7](Week%207.md) | Security Fundamentals |
+| [Week 8](Week%208.md) | Version Control (Git) and Backups |
+| [Week 9](Week%209.md) | Docker |
+| [Week 10](Week%2010.md) | Nix / Puppet |
+| [Week 11](Week%2011.md) | Kubernetes |
